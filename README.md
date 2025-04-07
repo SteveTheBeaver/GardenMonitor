@@ -68,7 +68,7 @@ streamer = Streamer(
 
 ### 5. Running the Script
 
-Ensure your main Python file (`tracker.py`) is located in the same directory as the rest of the project files. Then, simply run the Python script with:
+Ensure your main Python file is located in the same directory as the rest of the project files. Then, simply run the Python script with:
 
 ```bash
 python3 main.py
